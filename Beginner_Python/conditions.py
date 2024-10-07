@@ -1,0 +1,5 @@
+print("HELLO" != "hello")
+print(2 + 4 == 6)
+print(2 + 10 >= 12)
+print(2 + 10 > 12)
+print(False == True)
