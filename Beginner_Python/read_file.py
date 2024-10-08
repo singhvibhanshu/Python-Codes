@@ -10,3 +10,5 @@ for items in f:
         list_items.append(items)
 
 print(list_items)
+
+reading_a_file.close()
