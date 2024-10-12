@@ -14,6 +14,6 @@ print(newList)
 
 # operation happening from line 8 to 13 can be replaced by only one line using the map function
 
-print(list(map(func, li))) # map function, it is, here "list" is also a keyword, not a variable
+print(list(map(func, li))) # map function, it is, here "list" is also a keyword, not a variable. Here, map function took a function known as "func" and a list known as "li"
 
 print([func(x) for x in li]) # another alternative of the map function
