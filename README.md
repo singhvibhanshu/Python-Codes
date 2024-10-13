@@ -8,6 +8,8 @@ This repository contains Python code examples organized into different levels: B
 - [Object_Oriented](#object_oriented)
 - [Intermediate_Python](#intermediate_python)
 - [Advanced_Python](#advanced_python)
+- [Prerequisites](#prerequisites)
+- [Run Instructions](#run-instructions)
 
 ## Folder Structure
 
@@ -82,3 +84,16 @@ The `Advanced_Python` folder covers more advanced topics, including decorators, 
 - **generators.py**: Using `generators` for efficient iteration.
 - **metaclasses01.py**: Introduction to `metaclasses` in Python.
 - **metaclasses02.py**: Further understanding of `metaclasses`.
+
+---
+
+## Prerequisites
+
+* Python 3.9+
+
+---
+
+## Run Instructions
+
+* Download the respective .py file
+* Go to a terminal of your choice and run ```python filename.py```
