@@ -37,5 +37,3 @@ The `Beginner_Python` folder contains Python files that cover the foundational c
 - **string_methods.py**: Applying string methods.
 - **try_except.py**: Exception handling using `try` and `except`.
 - **while_loops.py**: Using `while` loops.
-
-More folders and files will be added over time to cover intermediate, object-oriented, and advanced Python topics.
