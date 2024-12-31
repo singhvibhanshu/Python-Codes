@@ -1,18 +1,25 @@
-# whenever we create a class we have to add some methods/functions to it.
+# Demonstrating classes, methods, and attributes in Python
 
+# Defining a class 'Dog' which inherits from the 'object' class
 class Dog(object):
-    def __init__(self, name): # this __init__() needs to be in most of your class and this is something which you can called as a constructor methods
+    
+    # The __init__() method is the constructor method that is automatically called when an object is created
+    def __init__(self, name):  
+        # The self parameter refers to the instance of the class (the specific object you create)
+        # The __init__() method is called when you create an instance of the class.
         print("This is going to implement automatically, even if we are not mentioning about it.")
-        self.name = name
-    def speak(self):
+        self.name = name  # Assigning the name to the instance attribute 'name'
+
+    # Defining a method called 'speak' which the Dog objects can call
+    def speak(self):  
+        # The 'speak' method prints a message that includes the dog's name
         print("Hey! I am", self.name)
 
-v = Dog("Vibhanshu")
-t = Dog("Tarun")
-v.speak()
-t.speak()
+# Creating two instances of the Dog class
+v = Dog("Vibhanshu")  # v is an instance of the Dog class
+t = Dog("Tarun")      # t is another instance of the Dog class
 
-# In classes, there are something we called as attributes and methods
-# Methods are anything which you create using define and they look just like functions except you have to call them using the objects
-# Attributes are kind of variables that belong to a certain object. In order to create an attribute, we need to use the "self" keyword. For example, self.name, self.age, self.colour, etc.
-# "self" -> is stands for the instance which you are calling like in, v = Dog(), v is the instance
+# Calling the 'speak' method for both instances
+v.speak()  # Output: "Hey! I am Vibhanshu"
+t.speak()  # Output: "Hey! I am Tarun"
+
