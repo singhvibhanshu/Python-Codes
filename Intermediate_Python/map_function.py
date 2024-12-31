@@ -1,19 +1,20 @@
-# map function -> extremely useful tool that allow us to apply a function to a list and then create a new list with those new values
-
+# Initial list
 li = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
+# Defining a function that takes a number and raises it to the power of itself
 def func(x):
     return x ** x
 
+# Using a for loop to apply the function to the list
 newList = []
-
 for i in li:
-    newList.append(func(i))
+    newList.append(func(i))  # Adding the result of func(i) to the new list
 
+# Printing the new list with modified values
 print(newList)
 
-# operation happening from line 8 to 13 can be replaced by only one line using the map function
+# Using map function to achieve the same result
+print(list(map(func, li)))  # map(func, li) applies func to every element of li and returns an iterator, list() converts it to a list
 
-print(list(map(func, li))) # map function, it is, here "list" is also a keyword, not a variable. Here, map function took a function known as "func" and a list known as "li"
-
-print([func(x) for x in li]) # another alternative of the map function
+# Using list comprehension as an alternative to map
+print([func(x) for x in li])  # Equivalent to map but written as a list comprehension
