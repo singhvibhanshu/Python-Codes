@@ -20,3 +20,7 @@ def test2():
 
 test()   # Will print the time taken to run the loop in test()
 test2()  # Will print the time taken for 2-second sleep in test2()
+
+#Output: 
+# Time:  0.004
+# Time:  2.002345
