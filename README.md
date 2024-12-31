@@ -10,6 +10,7 @@ This repository contains Python code examples organized into different levels: B
 - [Advanced_Python](#advanced_python)
 - [Prerequisites](#prerequisites)
 - [Run Instructions](#run-instructions)
+- [Support](#support)
 
 ## Folder Structure
 
@@ -97,3 +98,9 @@ The `Advanced_Python` folder covers more advanced topics, including decorators, 
 
 * Download the respective .py file
 * Go to a terminal of your choice and run ```python filename.py```
+
+---
+
+## Support
+
+If you find this repository helpful and like my work, consider supporting me by starring this repository! 🌟m 
