@@ -12,4 +12,4 @@ print(text.find('e'))
 # Using the .count() method
 print(text.count('e'))  
 # The .count() method returns the total number of occurrences of the specified substring.
-# In this case, it counts all the 'e' characters in the string and returns 6.
+# In this case, it counts all the 'e' characters in the string and returns 5.
