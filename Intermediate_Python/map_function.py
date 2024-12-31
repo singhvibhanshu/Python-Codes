@@ -18,3 +18,7 @@ print(list(map(func, li)))  # map(func, li) applies func to every element of li 
 
 # Using list comprehension as an alternative to map
 print([func(x) for x in li])  # Equivalent to map but written as a list comprehension
+
+# [1, 4, 27, 256, 3125, 46656, 823543, 16777216, 387420489, 10000000000]
+# [1, 4, 27, 256, 3125, 46656, 823543, 16777216, 387420489, 10000000000]
+# [1, 4, 27, 256, 3125, 46656, 823543, 16777216, 387420489, 10000000000]
