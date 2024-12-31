@@ -15,3 +15,7 @@ with File("file.txt", 'w') as f:
     print("Middle")
     f.write("Hey!")  # Writing to the file
     raise Exception()  # Simulating an error to test if the file gets closed even if an exception occurs
+
+Enter
+Middle
+Exit
