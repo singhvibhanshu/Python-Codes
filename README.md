@@ -28,21 +28,24 @@ The repository is divided into the following sections:
 This folder contains code covering the basics of Python. Each file covers a specific foundational concept:
 
 - **conditions.py**: Handling `conditions` and `boolean logic`.
-- **data_types.py**: Understanding Python `data types`.
-- **for_loops.py**: Using `for` loops in Python.
+- **data-types.py**: Understanding Python `data types`.
+- **for-loops.py**: Using `for` loops in Python.
 - **functions.py**: Defining and using `functions`.
-- **if_elif_else.py**: Implementing `conditional statements`.
+- **if-elif-else.py**: Implementing `conditional statements`.
 - **iteration.py**: Exploring `iteration` concepts in Python.
 - **lists.py**: Working with `lists`.
+- **modified-except.py**: Demonstrating the modified method for `except`.
+- **modified-whileloops.py**: 
 - **modular.py**: Demonstrating `modular programming`.
-- **optional_parameter.py**: Using `optional parameters` in functions.
-- **other_methods.py**: Additional built-in Python methods.
+- **myModule.py**: Demonstrating `modular programming`.
+- **optional-parameter.py**: Using `optional parameters` in functions.
+- **other-methods.py**: Additional built-in Python methods.
 - **read_file.py**: `Reading` files in Python.
+- **slice-operator.py**: Using `slice` operator with sequences.
+- **string-methods.py**: Applying string methods.
+- **try-except.py**: Exception handling using `try` and `except`.
+- **while-loops.py**: Using `while` loops.
 - **write_file.py**: `Writing` to files in Python.
-- **slice_operator.py**: Using `slice` operator with sequences.
-- **string_methods.py**: Applying string methods.
-- **try_except.py**: Exception handling using `try` and `except`.
-- **while_loops.py**: Using `while` loops.
 
 ---
 
@@ -50,13 +53,13 @@ This folder contains code covering the basics of Python. Each file covers a spec
 
 The `Object_Oriented` folder provides examples related to object-oriented programming in Python:
 
-- **creating_classes.py**: Creation of `classes` in Python.
-- **example_public_privateclasses.py**: Example of `public` and `private classes`.
-- **inheritance01.py**: Demonstrating basic `inheritance`.
-- **inheritance02.py**: Further demonstration of `inheritance`.
-- **intro_to_objects.py**: Introduction to `objects` in Python.
-- **public_privateclasses.py**: A look at `public` and `private` class members.
-- **staticclass_methods.py**: Understanding `static methods` and `class methods`.
+- **creating-classes.py**: Creation of `classes` in Python.
+- **inheritance-01.py**: Demonstrating basic `inheritance`.
+- **inheritance-02.py**: Further demonstration of `inheritance`.
+  **introduction-to-objects.py**: Introduction to `objects` in Python.
+- **public-private-class-example.py**: Example of `public` and `private classes`.
+- **public-private-classes.py**: A look at `public` and `private` class members.
+- **staticclass-methods.py**: Understanding `static methods` and `class methods`.
 
 ---
 
@@ -66,12 +69,13 @@ This folder contains intermediate Python topics, including functional programmin
 
 - **counter.py**: Using `Counter` from the collections module.
 - **deque.py**: Working with `deque` objects.
-- **filter_functions.py**: Using `filter` functions in Python.
-- **lambda_function.py**: Working with `lambda` expressions.
-- **map_function.py**: Demonstrating the `map` function.
+- **filter-function.py**: Using `filter` functions in Python.
+- **important-methods-for-deque.py**: Demonstrating other important methods for `deque`.
+- **lambda-function.py**: Working with `lambda` expressions.
+- **map-function.py**: Demonstrating the `map` function.
 - **namedTuple.py**: Working with `namedtuple` from the collections module.
-- **optional_parameter.py**: `Optional parameters` in Python functions.
-- **static_class_methods.py**: Further understanding of `static` and `class methods`.
+- **optional-parameter.py**: `Optional parameters` in Python functions.
+- **static-class-methods.py**: Further understanding of `static` and `class methods`.
 
 ---
 
@@ -79,12 +83,12 @@ This folder contains intermediate Python topics, including functional programmin
 
 The `Advanced_Python` folder covers more advanced topics, including decorators, metaclasses, and more:
 
-- **context_managers.py**: Understanding and using `context managers`.
+- **context-managers.py**: Understanding and using `context managers`.
 - **decorators.py**: Implementing and using `decorators`.
-- **dunder_or_magic_methods.py**: Understanding special or `"dunder"` methods in Python.
+- **dunder-or-magic-methods.py**: Understanding special or `"dunder"` methods in Python.
 - **generators.py**: Using `generators` for efficient iteration.
-- **metaclasses01.py**: Introduction to `metaclasses` in Python.
-- **metaclasses02.py**: Further understanding of `metaclasses`.
+- **metaclasses-01.py**: Introduction to `metaclasses` in Python.
+- **metaclasses-02.py**: Further understanding of `metaclasses`.
 
 ---
 
@@ -103,4 +107,4 @@ The `Advanced_Python` folder covers more advanced topics, including decorators, 
 
 ## Support
 
-If you find this repository helpful and like my work, consider supporting me by starring this repository! 🌟m 
+If you find this repository helpful and like my work, consider supporting me by starring this repository! 🌟
