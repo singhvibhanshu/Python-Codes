@@ -20,3 +20,5 @@ p = Person("Vibhanshu")  # Create a new Person object with the name "Vibhanshu"
 p * 5  # Calls the __mul__ method, multiplying the name by 5
 print(p)  # Calls the __repr__ method, which will return the string representation of the object
 print(len(p))  # Calls the __len__ method, which returns the length of the name ("Vibhanshu")
+
+#Output:
