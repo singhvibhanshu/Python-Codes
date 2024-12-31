@@ -35,7 +35,7 @@ This folder contains code covering the basics of Python. Each file covers a spec
 - **iteration.py**: Exploring `iteration` concepts in Python.
 - **lists.py**: Working with `lists`.
 - **modified-except.py**: Demonstrating the modified method for `except`.
-- **modified-whileloops.py**: 
+- **modified-whileloops.py**: Demonstrating how to use the `modified while` loops.
 - **modular.py**: Demonstrating `modular programming`.
 - **myModule.py**: Demonstrating `modular programming`.
 - **optional-parameter.py**: Using `optional parameters` in functions.
