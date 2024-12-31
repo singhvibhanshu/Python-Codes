@@ -1,7 +1,7 @@
 # Demonstrating the use of .find() and .count() methods in Python strings
 
 # Defining a string
-text = "Hey there! I am Vibhanshu Singh. I live in Delhi."
+text = "Hey there! I am Vibhanshu Singh, I live in Delhi."
 # The string contains a mix of words, spaces, punctuation, and uppercase/lowercase letters.
 
 # Using the .find() method
