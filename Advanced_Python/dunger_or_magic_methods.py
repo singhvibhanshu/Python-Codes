@@ -22,3 +22,5 @@ print(p)  # Calls the __repr__ method, which will return the string representati
 print(len(p))  # Calls the __len__ method, which returns the length of the name ("Vibhanshu")
 
 #Output:
+# Person(VibhanshuVibhanshuVibhanshuVibhanshuVibhanshu)
+# 9
