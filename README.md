@@ -4,10 +4,10 @@ This repository contains Python code examples organized into different levels: B
 
 ## Table of Contents
 - [Folder Structure](#folder-structure)
-- [Beginner_Python](#beginner_python)
-- [Object_Oriented](#object_oriented)
-- [Intermediate_Python](#intermediate_python)
-- [Advanced_Python](#advanced_python)
+- [Beginner-Python](#beginner-python)
+- [Object-Oriented](#object-oriented)
+- [Intermediate-Python](#intermediate-python)
+- [Advanced-Python](#advanced-python)
 - [Prerequisites](#prerequisites)
 - [Run Instructions](#run-instructions)
 - [Support](#support)
@@ -16,14 +16,14 @@ This repository contains Python code examples organized into different levels: B
 
 The repository is divided into the following sections:
 
-1. **Beginner_Python**: Basic Python concepts.
-2. **Object_Oriented**: Object-oriented programming examples in Python.
-3. **Intermediate_Python**: Intermediate-level concepts such as data structures and functional programming.
-4. **Advanced_Python**: Advanced Python topics, including metaclasses and decorators.
+1. **Beginner-Python**: Basic Python concepts.
+2. **Object-Oriented**: Object-oriented programming examples in Python.
+3. **Intermediate-Python**: Intermediate-level concepts such as data structures and functional programming.
+4. **Advanced-Python**: Advanced Python topics, including metaclasses and decorators.
 
 ---
 
-## Beginner_Python
+## Beginner-Python
 
 This folder contains code covering the basics of Python. Each file covers a specific foundational concept:
 
@@ -49,9 +49,9 @@ This folder contains code covering the basics of Python. Each file covers a spec
 
 ---
 
-## Object_Oriented
+## Object-Oriented
 
-The `Object_Oriented` folder provides examples related to object-oriented programming in Python:
+The `Object-Oriented` folder provides examples related to object-oriented programming in Python:
 
 - **creating-classes.py**: Creation of `classes` in Python.
 - **inheritance-01.py**: Demonstrating basic `inheritance`.
@@ -63,7 +63,7 @@ The `Object_Oriented` folder provides examples related to object-oriented progra
 
 ---
 
-## Intermediate_Python
+## Intermediate-Python
 
 This folder contains intermediate Python topics, including functional programming and much more:
 
@@ -79,9 +79,9 @@ This folder contains intermediate Python topics, including functional programmin
 
 ---
 
-## Advanced_Python
+## Advanced-Python
 
-The `Advanced_Python` folder covers more advanced topics, including decorators, metaclasses, and more:
+The `Advanced-Python` folder covers more advanced topics, including decorators, metaclasses, and more:
 
 - **context-managers.py**: Understanding and using `context managers`.
 - **decorators.py**: Implementing and using `decorators`.
